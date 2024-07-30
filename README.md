@@ -1,3 +1,4 @@
 # navaneeth-demo
-This is my first Git Repository
-author - R NAVANEETH SHENOY
+This is my first Git Repository.
+<br>
+Author - R NAVANEETH SHENOY
